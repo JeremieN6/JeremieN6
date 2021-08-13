@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JeremieN6
 - 👀 I’m interested in web developpement
-- 🌱 I’m currently learning VueJS
+- 🌱 I’m currently learning VueJS - Flask (Python)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ngoyi.jeremie@gmail.com
 
