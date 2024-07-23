@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JeremieN6
 - 👀 I’m interested in web developpement
-- 🌱 I’m currently learning VueJS - Flask (Python)
-- 💞️ I’m looking to collaborate on Front End AI Project
+- 🌱 I’m currently learning Web 3 Solidity - Flask (Python)
+- 💞️ I’m looking to collaborate on Front End AI Projects
 - 📫 How to reach me contact@jeremiecode.fr
 
 <!---
