@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @JeremieN6
 - 👀 I’m interested in Web Developpement - AI
 - 🌱 I’m currently learning GSAP Animations - Three.JS - Web 3 Solidity
+- 👑 Founder of : Tifo - Skinalyze - Stellara
 - 💞️ I’m looking to collaborate on Front End AI Projects
-- 📫 How to reach me contact@jeremiecode.fr
+- 📫 How to reach me contact@jeremiecode.fr - contact@sassify.fr
 
 <!---
 JeremieN6/JeremieN6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
